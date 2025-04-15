@@ -59,9 +59,7 @@ npm run menu
 
 Edit `items.csv` file under `assets/csv` to change food items.
 
-## Author
 
-[@chiragverma11](https://github.com/chiragverma11) - Designing & Developement
 
 ## Built Using
 
